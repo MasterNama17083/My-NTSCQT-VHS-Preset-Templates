@@ -1,2 +1,2 @@
-# My-NTSCQT-VHS-Preset-Templates
-You want to get the VHS Preset Templates for editors.
+# Master Nama's NTSCQT VHS Preset Templates
+If you want to use VHS Preset Template, Please make sure to credit me or else.
