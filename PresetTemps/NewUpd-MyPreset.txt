@@ -27,4 +27,5 @@
   "_nocolor_subcarrier": false,
   "_vhs_chroma_vert_blend": true,
   "_vhs_svideo_out": true,
-  "_output_ntsc": tr
+  "_output_ntsc": true
+}
